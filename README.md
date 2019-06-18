@@ -1,3 +1,6 @@
+
+A React app using geolocation and date to view the season depending on latitude.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
