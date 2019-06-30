@@ -29,7 +29,7 @@ class App extends React.Component {
       return <Spinner message="Accept location request." />;
     }
   }
-  // React says we have to define render!
+  //  Define render!
   render() {
     return <div className="season">{this.renderContent()}</div>;
   }
